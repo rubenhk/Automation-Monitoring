@@ -1,0 +1,5 @@
+resource_group_name  = "kk-mgt-ado-prd-neu-rg-01"
+storage_account_name = "kkmgttfprdneusa01"
+container_name       = "tfstate"
+key                  = "kk-mgt-mon-prd-sub-01/management-automation-monitoring-resources/prod-neu.terraform.tfstate"
+subscription_id      = "54f669de-2a04-44a4-9810-52999df7de92"
