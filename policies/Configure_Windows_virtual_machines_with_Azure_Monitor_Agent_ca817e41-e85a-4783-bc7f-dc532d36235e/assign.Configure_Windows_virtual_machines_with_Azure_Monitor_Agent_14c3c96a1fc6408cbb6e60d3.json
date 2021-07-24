@@ -1,0 +1,31 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "identity": {
+  "principalId": "3b8fc952-4058-4726-bd1b-ce624cd64a5b",
+  "tenantId": "04a6f503-55f7-4943-815d-d7df8f7b3426",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Configure Windows virtual machines with Azure Monitor Agent",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ca817e41-e85a-4783-bc7f-dc532d36235e",
+  "scope": "/subscriptions/d2d0a8fa-99b9-424c-bd89-56d61f50772b",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Ruben Kuti",
+   "parameterScopes": {},
+   "createdBy": "43931e52-8f55-47ec-855b-1bad393ec883",
+   "createdOn": "2021-07-24T10:15:08.2307471Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/d2d0a8fa-99b9-424c-bd89-56d61f50772b/providers/Microsoft.Authorization/policyAssignments/14c3c96a1fc6408cbb6e60d3",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "14c3c96a1fc6408cbb6e60d3",
+ "location": "uksouth"
+}
